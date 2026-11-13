@@ -1,0 +1,6 @@
+pydantic==2.12.5
+duckdb==2.0.0
+pandas==3.0.0
+numpy==2.2.6
+ipykernel==7.4.0
+nbconvert==7.17.1
