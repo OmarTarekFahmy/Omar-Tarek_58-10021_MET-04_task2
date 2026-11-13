@@ -4,7 +4,7 @@
 **ID:** 58-10021
 **Major / lab:** MET-04
 
-Files: `task2.ipynb` (the notebook, run top to bottom), `bookings.jsonl` (the given input, unchanged), `quarantine.jsonl` (rejected lines with their reasons), `star/` (Parquet: `dim_event.parquet`, `dim_student.parquet`, and `fact_ticket_sales/booked_month=…/`), and `requirements.txt`.
+Files: `task2.ipynb` (the notebook, run top to bottom), `bookings.jsonl` (the given input, unchanged), `quarantine.jsonl` (rejected lines with their reasons), `star/` (Parquet: `dim_event.parquet`, `dim_student.parquet`, and `fact_ticket_sales/booked_month=…/`), and `requirements.txt` (install with `pip install -r requirements.txt`).
 
 ## Part D: What I did
 
